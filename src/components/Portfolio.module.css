@@ -1,0 +1,39 @@
+/* Portfolio.module.css */
+.portfolio {
+    background-color: #f9f9f9;
+    padding: 40px 20px;
+}
+
+.portfolio h2 {
+    text-align: center;
+    color: #333;
+    font-size: 22px;
+    margin-bottom: 30px;
+}
+
+.portfolio .projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.portfolio .project {
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.portfolio h3 {
+    color: #555;
+    font-size: 18px;
+}
+
+.portfolio p {
+    color: #666;
+    font-size: 14px;
+    line-height: 1.6;
+}
+

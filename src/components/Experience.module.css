@@ -1,0 +1,35 @@
+/* Experience.module.css */
+.experience {
+    background-color: #f9f9f9;
+    padding: 40px 20px;
+}
+
+.experience h2 {
+    text-align: center;
+    color: #333;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.experience .job {
+    margin-bottom: 30px;
+}
+
+.experience h3 {
+    font-size: 18px;
+    margin: 0;
+    color: #555;
+}
+
+.experience .year {
+    font-size: 14px;
+    color: #888;
+    margin-top: 5px;
+}
+
+.experience p {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.6;
+    margin-top: 10px;
+}

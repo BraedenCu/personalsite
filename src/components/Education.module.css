@@ -1,0 +1,28 @@
+/* Education.module.css */
+.education {
+    padding: 40px 20px;
+    background-color: #fff;
+}
+
+.education h2 {
+    text-align: center;
+    color: #333;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.education div {
+    margin-bottom: 20px;
+}
+
+.education h3 {
+    font-size: 18px;
+    margin: 0;
+    color: #555;
+}
+
+.education p {
+    font-size: 14px;
+    color: #888;
+    margin-top: 5px;
+}

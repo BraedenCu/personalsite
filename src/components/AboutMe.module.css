@@ -1,0 +1,18 @@
+/* AboutMe.module.css */
+.aboutMe {
+    padding: 40px 20px;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+.aboutMe h2 {
+    margin-bottom: 20px;
+    font-size: 22px;
+    color: #333;
+}
+
+.aboutMe p {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.6;
+}

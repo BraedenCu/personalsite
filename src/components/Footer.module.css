@@ -1,0 +1,16 @@
+/* Footer.module.css */
+.footer {
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 20px 0;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer p {
+    color: #666;
+    margin: 0;
+    font-size: 14px;
+}
